@@ -1,0 +1,29 @@
+[33mcommit 9560e5e5e2951165608c9cf82600b5b54ddcbf8d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Aleks19782006 <an.aleksa1@ya.ru>
+Date:   Sat Jan 29 01:50:27 2022 +0300
+
+    change log
+
+[33mcommit b0d63e7778bd1fb25de924cf6e11ab9e4bac6bbd[m
+Author: Aleks19782006 <an.aleksa1@ya.ru>
+Date:   Sat Jan 29 01:26:16 2022 +0300
+
+    added console.log
+
+[33mcommit 3eac082f517381696f74462e645180642f48d400[m
+Author: Aleks <aleksandra19782006@ya.ru>
+Date:   Wed Jan 26 23:41:18 2022 +0300
+
+    created file readme.md
+
+[33mcommit fb3cdf34b185e2b5428c7b0b95356ecb68002fba[m
+Author: Aleks <aleksandra19782006@ya.ru>
+Date:   Wed Jan 26 23:18:28 2022 +0300
+
+    added gitignore
+
+[33mcommit ab37aaf9494156de912fd16256cd3ab4d3282eb9[m
+Author: Aleks <aleksandra19782006@ya.ru>
+Date:   Wed Jan 26 23:05:07 2022 +0300
+
+    first commit
